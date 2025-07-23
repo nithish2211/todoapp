@@ -1,4 +1,5 @@
-# 📝 TodoApp
+# 📝 TodoApp 
+https://todonix.netlify.app/
 
 A simple and elegant Todo App built using **React**, **Tailwind CSS**, and **Vite**. Manage your tasks effortlessly with a clean UI and smooth experience.
 
@@ -71,7 +72,8 @@ Edit
 git add .
 git commit -m "Your message"
 git push origin main
-🌍 Live Demo
+
+🌍 Live Demo    
 🔗 Visit the Live Site
 [(https://todonix.netlify.app/)]
 
